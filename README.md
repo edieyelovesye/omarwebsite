@@ -1,5 +1,6 @@
 # 🌟 Florian Appliances Website
-made by ![father.ties](https://www.instagram.com/father.ties/) on Instagram
+made by father.ties on Instagram
+
 ![GitHub stars](https://img.shields.io/github/stars/edieyelovesye/omarwebsite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/edieyelovesye/omarwebsite?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/edieyelovesye/omarwebsite)
